@@ -36,9 +36,9 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="DJANGO_SETTINGS_MODULE" value="" />
+        <env name="DJANGO_SETTINGS_MODULE" value="budget_keeper" />
       </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/env/bin/python" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/env/bin/python3" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -66,7 +66,7 @@
       <workItem from="1639559719687" duration="1382000" />
       <workItem from="1639561246903" duration="161000" />
       <workItem from="1639561460631" duration="467000" />
-      <workItem from="1639561978379" duration="500000" />
+      <workItem from="1639561978379" duration="3350000" />
     </task>
     <servers />
   </component>
