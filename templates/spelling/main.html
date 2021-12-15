@@ -7,5 +7,14 @@
 <body>
     <h1>Welcome to Budget Keeper!</h1>
     Total family amount = {{ amount }}
+
+    <p>Внести платёж:</p>
+    <form method="POST">
+        {% csrf_token %}
+    <table>
+        {{ form }}
+    </table>
+    <input type="submit" value="Send" >
+
 </body>
 </html>
